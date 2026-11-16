@@ -1,0 +1,71 @@
+[
+  {
+    "case": "restore_active_probation",
+    "before": {
+      "status": "Thử việc"
+    },
+    "response": 200,
+    "after": {
+      "status": "Đang làm việc"
+    }
+  },
+  {
+    "case": "termination_after_expiry",
+    "created": 201,
+    "end_date": "2026-11-06",
+    "termination_date": "2026-11-16",
+    "status": 200
+  },
+  {
+    "case": "historical_overlap_terminated",
+    "status": 201
+  },
+  {
+    "case": "seed_leave_chronology",
+    "rows": [
+      {
+        "id": "NP004",
+        "submitted": "2026-11-16",
+        "start": "2026-11-06",
+        "approved": "2026-11-16"
+      }
+    ]
+  },
+  {
+    "case": "employee_denied",
+    "path": "/api/employees/NV004/archive",
+    "status": 403
+  },
+  {
+    "case": "employee_denied",
+    "path": "/api/employees/NV004/restore",
+    "status": 403
+  },
+  {
+    "case": "employee_denied",
+    "path": "/api/contracts/HD004/terminate",
+    "status": 403
+  },
+  {
+    "case": "employee_denied",
+    "path": "/api/assignments",
+    "status": 403
+  },
+  {
+    "case": "employee_denied",
+    "path": "/api/balances",
+    "status": 403
+  },
+  {
+    "case": "employee_denied",
+    "path": "/api/users/U1/toggle",
+    "status": 403
+  },
+  {
+    "case": "foreign_key_check",
+    "rows": [],
+    "integrity": {
+      "integrity_check": "ok"
+    }
+  }
+]

@@ -1,0 +1,116 @@
+QUYETDINH
+MaQD
+SoQD
+LoaiQD
+NgayKy
+NgayHieuLuc
+NguoiKy
+NoiDung
+QUATRINHCONGTAC
+MaQT
+MaNV
+MaQD
+LoaiBienDong
+MaPBCu
+MaPBMoi
+MaCVCu
+MaCVMoi
+NgayHieuLuc
+LyDo
+PHONGBAN
+MaPB
+TenPB
+MoTa
+NgayThanhLap
+CHUCVU
+MaCV
+TenCV
+MoTa
+CapBac
+NHANVIEN
+MaNV
+HoTen
+NgaySinh
+GioiTinh
+DiaChi
+SoDienThoai
+Email
+NgayVaoLam
+TrangThai
+NgayLuuTru
+MaPB
+MaCV
+HOPDONG
+MaHD
+MaNV
+LoaiHD
+NgayBatDau
+NgayKetThuc
+MucLuong
+TrangThai
+NgayChamDut
+LyDoChamDut
+GIAHANHOPDONG
+MaGH
+MaHD
+LanGiaHan
+NgayLap
+NgayKetThucCu
+NgayKetThucMoi
+LyDo
+DONNGHIPHEP
+MaDon
+MaNV (người nộp)
+MaLoai
+NgayNop
+TuNgay
+DenNgay
+SoNgay
+LyDo
+TrangThai
+MaNVDuyet (người duyệt)
+NgayDuyet
+LOAINGHIPHEP
+MaLoai
+TenLoai
+SoNgayToiDaSONGAYPHEP
+MaNV
+Nam
+TongSoNgayPhep
+SoNgayDaNghi
+SoNgayConLai
+Căn cứ
+Chuyển đi
+Chuyển đến
+Chức vụ cũ
+Chức vụ mới
+Có
+Thuộc Đảm nhiệm
+Ký
+Được gia hạn
+Nộp
+Duyệt
+Thuộc loại
+Có
+1
+N
+1 N
+1 N
+1N
+1N
+1
+N
+1
+N
+1
+N
+1N
+1
+N
+1 N
+1 N
+1
+N
+1
+N
+Lược đồ thực thể - liên kết (ERD) - Hệ thống quản lý nhân sự
